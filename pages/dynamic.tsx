@@ -43,18 +43,14 @@ const Dynamic: NextPage = (props: {
           <h3>
             Gerado no servidor:
           </h3>
-          <h2>
-              
-          </h2>
+     
         </Col>
 
         <Col>
           <h3>
             Gerado no cliente:
           </h3>
-          <h2>
-              
-          </h2>
+            
         </Col>
       </Row>
     </Container>
